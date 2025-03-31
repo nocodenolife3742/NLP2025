@@ -112,20 +112,17 @@ python ./twitter_sentiment_analysis/main.py --type evaluate --eval_corpus <path_
 
 ## Information
 
-```
+
 In this homework, we try to predict whether positive or negative the sentiment is.  
 You can try to predict a sentence or evaluate a data.  
 If you try to predict a sentence, the result well be positive or negative.  
 If you try to evaluate a data, you will get Accuracy、Precision、Recall and F1 score.  
-```
 
 ## Method
 
-```
 We try to calculate each words it's positive and negative counts.  
 Total amount will be stored into `all_option_enable.json` ,which is in the `corpus` folder.  
 When we predict a sentence, we would calculate by this `json` file using bayes classifier.  
-```
 
 ## Screenshot
 
