@@ -4,6 +4,7 @@ This file provides a command-line interface for performing Twitter sentiment
 analysis operations.
 
 The operations include:
+- Preprocessing raw data.
 - Building a corpus from training data.
 - Predicting sentiment using a given corpus.
 - Evaluating the model with test data.
