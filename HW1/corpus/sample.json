@@ -1,0 +1,88 @@
+{
+    "stats": {
+        "positive_words": 30,
+        "negative_words": 28,
+        "total_words": 58,
+        "positive_tweets": 2,
+        "negative_tweets": 2,
+        "total_tweets": 4
+    },
+    "words": {
+        "sure": {
+            "positive": 1,
+            "negative": 2
+        },
+        "happened": {
+            "positive": 1,
+            "negative": 2
+        },
+        "worked": {
+            "positive": 1,
+            "negative": 2
+        },
+        "first": {
+            "positive": 1,
+            "negative": 2
+        },
+        "big": {
+            "positive": 1,
+            "negative": 2
+        },
+        "link": {
+            "positive": 1,
+            "negative": 2
+        },
+        "pic": {
+            "positive": 1,
+            "negative": 2
+        },
+        "though": {
+            "positive": 1,
+            "negative": 2
+        },
+        "flickr": {
+            "positive": 1,
+            "negative": 2
+        },
+        "quite": {
+            "positive": 2,
+            "negative": 1
+        },
+        "early": {
+            "positive": 2,
+            "negative": 1
+        },
+        "can't": {
+            "positive": 2,
+            "negative": 1
+        },
+        "sleep": {
+            "positive": 3,
+            "negative": 1
+        },
+        "anymore": {
+            "positive": 2,
+            "negative": 1
+        },
+        "getting": {
+            "positive": 2,
+            "negative": 1
+        },
+        "ready": {
+            "positive": 2,
+            "negative": 1
+        },
+        "enjoy": {
+            "positive": 2,
+            "negative": 1
+        },
+        "city": {
+            "positive": 2,
+            "negative": 1
+        },
+        "never": {
+            "positive": 2,
+            "negative": 1
+        }
+    }
+}
