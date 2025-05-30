@@ -1,0 +1,4 @@
+data/
+.venv/
+fine-tuned-model/
+__pycache__/

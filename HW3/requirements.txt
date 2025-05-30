@@ -1,0 +1,8 @@
+requests
+transformers
+scikit-learn
+torch
+datasets
+accelerate
+evaluate
+seqeval

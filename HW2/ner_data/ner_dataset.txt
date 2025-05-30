@@ -1,0 +1,300 @@
+Steve	PER
+Zuckerberg	PER
+manages	O
+Google	ORG
+.	O
+
+Bill	PER
+created	O
+with	O
+Texas	LOC
+.	O
+
+Jobs	PER
+visits	O
+at	O
+California	LOC
+.	O
+
+Pichai	PER
+founded	O
+with	O
+hospital	LOC
+.	O
+
+Anna	PER
+works	O
+to	O
+London	LOC
+.	O
+
+Gates	PER
+Zuckerberg	PER
+visits	O
+Amazon	ORG
+.	O
+
+Microsoft	ORG
+visits	O
+in	O
+London	LOC
+.	O
+
+Peter	PER
+Jobs	PER
+visits	O
+Google	ORG
+.	O
+
+Netflix	ORG
+studies	O
+with	O
+California	LOC
+.	O
+
+Peter	PER
+Jobs	PER
+works	O
+Facebook	ORG
+.	O
+
+Facebook	ORG
+created	O
+in	O
+London	LOC
+.	O
+
+Bezos	PER
+created	O
+at	O
+Texas	LOC
+.	O
+
+Jeff	PER
+learns	O
+at	O
+school	LOC
+.	O
+
+Microsoft	ORG
+visits	O
+at	O
+Tokyo	LOC
+.	O
+
+SpaceX	ORG
+created	O
+with	O
+museum	LOC
+.	O
+
+Pichai	PER
+invests	O
+to	O
+New York	LOC
+.	O
+
+SpaceX	ORG
+manages	O
+from	O
+hospital	LOC
+.	O
+
+Pichai	PER
+Anna	PER
+visits	O
+Apple	ORG
+.	O
+
+Jeff	PER
+visits	O
+at	O
+Texas	LOC
+.	O
+
+Microsoft	ORG
+studies	O
+to	O
+museum	LOC
+.	O
+
+Bill	PER
+visits	O
+at	O
+Paris	LOC
+.	O
+
+Jeff	PER
+invests	O
+to	O
+park	LOC
+.	O
+
+Microsoft	ORG
+learns	O
+to	O
+New York	LOC
+.	O
+
+Jobs	PER
+Anna	PER
+leads	O
+Apple	ORG
+.	O
+
+Anna	PER
+invests	O
+in	O
+park	LOC
+.	O
+
+Tom	PER
+studies	O
+at	O
+hospital	LOC
+.	O
+
+Musk	PER
+Mark	PER
+works	O
+Facebook	ORG
+.	O
+
+Apple	ORG
+invests	O
+at	O
+Paris	LOC
+.	O
+
+Steve	PER
+learns	O
+at	O
+Paris	LOC
+.	O
+
+Musk	PER
+learns	O
+from	O
+museum	LOC
+.	O
+
+Bill	PER
+learns	O
+at	O
+Tokyo	LOC
+.	O
+
+Mark	PER
+Pichai	PER
+created	O
+Apple	ORG
+.	O
+
+Netflix	ORG
+manages	O
+in	O
+Paris	LOC
+.	O
+
+Elon	PER
+created	O
+to	O
+Texas	LOC
+.	O
+
+Bill	PER
+learns	O
+to	O
+museum	LOC
+.	O
+
+Jeff	PER
+invests	O
+with	O
+hospital	LOC
+.	O
+
+Sundar	PER
+visits	O
+to	O
+Paris	LOC
+.	O
+
+Tom	PER
+visits	O
+at	O
+Texas	LOC
+.	O
+
+Elon	PER
+learns	O
+in	O
+Tokyo	LOC
+.	O
+
+Pichai	PER
+founded	O
+in	O
+California	LOC
+.	O
+
+Elon	PER
+created	O
+from	O
+California	LOC
+.	O
+
+Jeff	PER
+manages	O
+to	O
+museum	LOC
+.	O
+
+Lucy	PER
+invests	O
+to	O
+London	LOC
+.	O
+
+Musk	PER
+visits	O
+to	O
+Texas	LOC
+.	O
+
+Anna	PER
+learns	O
+at	O
+school	LOC
+.	O
+
+Musk	PER
+Steve	PER
+visits	O
+Amazon	ORG
+.	O
+
+Pichai	PER
+Musk	PER
+learns	O
+Microsoft	ORG
+.	O
+
+Bill	PER
+visits	O
+at	O
+library	LOC
+.	O
+
+Amazon	ORG
+created	O
+to	O
+London	LOC
+.	O
+
+Jobs	PER
+Mark	PER
+founded	O
+Facebook	ORG
+.	O
+

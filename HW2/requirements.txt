@@ -1,0 +1,13 @@
+nltk
+tqdm
+jupyter
+requests
+pandas
+scipy
+numpy
+faiss-cpu
+matplotlib
+sentence-transformers
+scikit-learn
+seaborn
+datasets
